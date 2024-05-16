@@ -1,7 +1,7 @@
 <?php
-$host = "localhost";
+$host = "10.99.40.4:3306";
 $user = "root";
-$pass = "";
+$pass = "password";
 $db = "estoqueTi";
 $conn = new mysqli($host, $user, $pass, $db);
 
